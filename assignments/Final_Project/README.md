@@ -38,7 +38,7 @@ When creating your repository, you can choose one group member to be the owner o
 
 ### In-Class Presentation:
 
-Each group will have ~20 minutes to present their work on either December 6th or 8th.  Each presentation should include:
+Each group will have ~20 minutes to present their work on either December 5th or 7th.  Each presentation should include:
 
 1. Background on the biological question being investigated.
 2. A description of the workflow carried out by the group.
@@ -53,4 +53,4 @@ Your group should be a collaboration. You can form your groups of 3-4 people bas
 
 To communicate with your group members, we encourage you to use Slack. You can create a new channel for just your group members or you can just chat via direct message.
 
-The deadline for forming groups is **September 28, 2018**. When you have formed your group, post your group name and list of members on the Slack `#final-project` channel. 
+The deadline for forming groups is **September 28, 2018**. When you have formed your group, _post your group name and list of members_ on the Slack `#final-project` channel. 

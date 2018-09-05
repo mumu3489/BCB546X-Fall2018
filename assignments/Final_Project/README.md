@@ -54,3 +54,10 @@ Your group should be a collaboration. You can form your groups of 3-4 people bas
 To communicate with your group members, we encourage you to use Slack. You can create a new channel for just your group members or you can just chat via direct message.
 
 The deadline for forming groups is **September 28, 2018**. When you have formed your group, _post your group name and list of members_ on the Slack `#final-project` channel. 
+
+### Submission
+
+You must submit the URL to your group's repository on Canvas (to the Final Project assignment that will be created). The grade given to the group presentation will be based on the 
+work as a whole. However, every member of a group must submit the URL on Canvas to ensure that you get credit for your participation in the project. 
+
+**The deadline for submitting your repository on Canvase is December 5, 2018.**

@@ -60,4 +60,4 @@ The deadline for forming groups is **September 28, 2018**. When you have formed 
 You must submit the URL to your group's repository on Canvas (to the Final Project assignment that will be created). The grade given to the group presentation will be based on the 
 work as a whole. However, every member of a group must submit the URL on Canvas to ensure that you get credit for your participation in the project. 
 
-**The deadline for submitting your repository on Canvase is December 5, 2018.**
+**The deadline for submitting your repository on [Canvas](https://canvas.iastate.edu/courses/52516) is December 5, 2018.**

@@ -1,4 +1,4 @@
-#UNIX Assignment
+# UNIX Assignment
 
 Your UNIX assignment will consist of two components:
 
@@ -7,7 +7,7 @@ Your UNIX assignment will consist of two components:
 
 Please document your work in a version-controlled repository using `git`.  Your repository should include a `README.md` file in Markdown format that describes your workflow for both data inspection and processing. The repository should also include the files you will create as described below. When you are ready to turn in your workflow and files, please send a url linking to the GitHub (public) or Bitbucket (private) repository you have created via Canvas (if submitting a private repository, invite instructors to the repository). To submit the assignment in Canvas, open the course page, click on "Assignments" on the lefthand side of the page, open the Unix Assignment, click on the "Submit Assignment" button on the righthand side, paste in your URL, and press "Submit Assignment" at the bottom of the page.
 
-##_Data Inspection_
+## _Data Inspection_
 
 I will upload on both Slack and GitHub (look for the "UNIX_Assignment" folder) two data files for you to inspect and describe with the various UNIX programs we have learned about over the last few weeks. Use these programs to become familiar with the files and to describe their structure and their dimensions (file size, number of columns, number of lines, etc...)
 
@@ -17,7 +17,7 @@ The files are:
  
 2. `snp_position.txt`: an additional data file that includes the SNP id (first column), chromosome location (third column), nucleotide location (fourth column) and other information for the SNPs genotyped in the `fang_et_al_genotypes.txt` file
 
-##_Data Processing_
+## _Data Processing_
 
 Our goal is to process these files with UNIX tools in order to format them for a downstream analysis (we won't actually be carrying out this analysis, just preparing the input files...something you'll likely need to do time and again). During this process, we will need to `join` (hint, hint) these data sets so that we have both genotypes and positions in a series of input files. All our files will be formatted such that the first column is "SNP_ID", the second column is "Chromosome", the third column is "Position", and subsequent columns are genotype data from either maize or teosinte individuals.
 

@@ -6,7 +6,7 @@ Your R assignment will consist of three parts:
 2. Additional analysis and visualization
 3. Reviewing two assignments from your peers
 
-Create an "R Markdown" file, which includes both the code and your description of the workflow in a version-controlled repository using git. The repository should also include the files you will create as described below. You will be given emails of two randomly selected participants of the class. Please send them an url linking to the GitHub (public) repository you have created **by 1pm on Friday, October 12**. In turn, you will receive links to two repositories to review. When you receive a link, first fork the repository, than clone the forked repository on your computer and write a review inside it named [your lastname]_review.Rmd. Push your review to the forked repository and submit a Pull request **by 9am on Tuesday, October 16**. Accept the pull requests of your reviewers. Finally, submit your assignment in Blackboard by opening the course page, clicking on "Course Content" on the lefthand side of the page, opening the R Assignment, clicking on the "Write Submission" button next to "Text Submission", pasting in your URL, and pressing "Submit" at the bottom of the page **by 1pm on Wednesday, October 17**.
+Create an "R Markdown" file, which includes both the code and your description of the workflow in a version-controlled repository using git. The repository should also include the files you will create as described below. You will be given emails of two randomly selected participants of the class. Please send them an url linking to the GitHub (public) repository you have created **by 1pm on Friday, October 12**. In turn, you will receive links to two repositories to review. When you receive a link, first fork the repository, than clone the forked repository on your computer and write a review inside it named [your lastname]_review.Rmd. Push your review to the forked repository and submit a Pull request **by 9am on Tuesday, October 16**. Accept the pull requests of your reviewers. Finally, submit your assignment in Canvas **by 1pm on Wednesday, October 17**.
 
 ## Part I
 ### _Data Inspection_
@@ -17,7 +17,7 @@ As a reminder, the files are:
 
 1. `fang_et_al_genotypes.txt`: a published SNP data set including maize, teosinte (i.e., wild maize), and Tripsacum (a close outgroup to the genus _Zea_) individuals
  
-2. `snp_position.txt`: an additional data file that includes the SNP id (first column), chromosome location (third column), nucleotide location (fourth column) and other information for the SNPs genotyped in the `fang_et_al_genotypes.txt` file
+2. `snp_position.txt`: an additional data file that includes the SNP id (first column), chromosome location (third column), nucleotide location (fourth column) and other information for the SNPs genotyped in the `fang_et_al_genotypes.txt` file.
 
 ### _Data Processing_
 

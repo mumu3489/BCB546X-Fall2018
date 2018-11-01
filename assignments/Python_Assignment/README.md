@@ -18,7 +18,7 @@ Additionally, Dr. X has written some comments and pseudocode that outline other 
 
 ## Details
 
-* Download the necessary files from the [`Python_Assignment`](https://github.com/EEOB-BioData/BCB546X-Fall2018) folder in the course repository and add them to your own repository where you will submit this assignment. The files required are:
+* Download the necessary files from the [`Python_Assignment`](https://github.com/EEOB-BioData/BCB546X-Fall2018/tree/master/assignments/Python_Assignment) folder in the course repository and add them to your own repository where you will submit this assignment. The files required are:
     * `sequence_translate.py`
     * `bears_mass.csv`
     * `bears_cytb.fasta`

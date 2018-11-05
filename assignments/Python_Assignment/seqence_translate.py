@@ -11,7 +11,7 @@
 
 #-- In the MAIN part of the script --#
 ## 6. Add two new columns to the bears DataFrame: (1) molecular weight and (2) GC content.
-## 7. Call your functions from step 3 (or step 2) and step 4 and fill in the new columns in the DataFrame.
+## 7. Call your functions from step 3 (or step 2) and step 4 and 5 and fill in the new columns in the DataFrame.
 ## 8. Plot a bar-chart of adult body mass per species. In your description of the graph, provide text that answers these questions: 
 ##     a. What is the largest bear species? 
 ##     b. What else is interesting about this species?

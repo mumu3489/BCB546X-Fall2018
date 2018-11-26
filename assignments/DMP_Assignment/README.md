@@ -9,7 +9,7 @@ For this assignment, you must write a data management plan (DMP) for *your* rese
 This assignment will consist of two parts. Both must meet the **format requirements** outlined in the section below.
 
 1. A title and brief description of your research project. [**1 page maximum**]
-2. Data management plan for your research project. Find the general guidelines for NSF data management plans. You can find this in the [excerpt from the NSF proposal preparation guide](https://eeob-biodata.github.io/BCB546X-Fall2018/assignments/DMP_Assignment/NSF-DMP) we have provided in the course repository. [**2 pages maximum**]
+2. Data management plan for your research project. Find the general guidelines for NSF data management plans. You can find this in the [excerpt from the NSF proposal preparation guide](https://github.com/EEOB-BioData/BCB546X-Fall2018/blob/master/assignments/DMP_Assignment/NSF-DMP.md) we have provided in the course repository. [**2 pages maximum**]
 
 The research project you write about for this assignment does not *have* to be your entire PhD thesis. It can just be just a sub-project within your larger research program. 
 
